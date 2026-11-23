@@ -1,0 +1,4253 @@
+[
+  {
+    "id": 277,
+    "name": "애니모",
+    "rawName": "애니모",
+    "aliases": [
+      "ANIMO",
+      "Animo",
+      "애니모 쿠폰"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/animo-coupon_6c2c57ff_e2176203.png",
+    "lastCheckedAt": "2026-09-30",
+    "coupons": [],
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 276,
+    "name": "메이플 키우기",
+    "rawName": "메이플 키우기",
+    "aliases": [
+      "MapleStory Idle",
+      "Maple Idle",
+      "메이플스토리 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/maple-story-idle-coupon_b2ea5344_e07c6ee1.png",
+    "lastCheckedAt": "2026-09-30",
+    "coupons": [],
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 275,
+    "name": "후더덕 서바이벌",
+    "rawName": "후더덕 서바이벌",
+    "aliases": [
+      "Huduck Survival",
+      "Hudeodeok Survival"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/hudeodeok-survival-coupon_33eb5518_ffe7c492.jpg",
+    "lastCheckedAt": "2026-09-30",
+    "coupons": [],
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 1,
+    "name": "아처캐슬 키우기",
+    "rawName": "아처캐슬 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224404233168",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 2,
+    "name": "루나(LUNAR) 에버소울",
+    "rawName": "루나(LUNAR) 에버소울",
+    "aliases": [
+      "LUNAR Eversoul"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224403011004",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 3,
+    "name": "아쿠아랜드: 크레이지 서바이벌",
+    "rawName": "아쿠아랜드: 크레이지 서바이벌",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224401904610",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 4,
+    "name": "벙커 딸깍 디펜스(벙딸디)",
+    "rawName": "벙커 딸깍 디펜스(벙딸디)",
+    "aliases": [],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224400294909",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 5,
+    "name": "로그W 리메인즈 오브 갓",
+    "rawName": "로그W 리메인즈 오브 갓",
+    "aliases": [
+      "Rogue W Remains of God"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224399149437",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 6,
+    "name": "뚜까펫 서바이벌",
+    "rawName": "뚜까펫 서바이벌",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224399120431",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 7,
+    "name": "이세카이 게이트",
+    "rawName": "이세카이 게이트",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224397925369",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 8,
+    "name": "랜덤다이스2",
+    "rawName": "랜덤다이스2",
+    "aliases": [
+      "Random Dice 2"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224396538163",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 9,
+    "name": "사신소년 키우기",
+    "rawName": "사신소년 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224394639926",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 10,
+    "name": "히어로랜드M",
+    "rawName": "히어로랜드M",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224393691935",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 11,
+    "name": "부족 또 전쟁: 무한루프 RPG",
+    "rawName": "부족 또 전쟁: 무한루프 RPG",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224392646784",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 12,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224391444079",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 13,
+    "name": "우주떡집 떡볶이 타이쿤",
+    "rawName": "우주떡집 떡볶이 타이쿤",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224390239468",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 14,
+    "name": "총잡이 고양이",
+    "rawName": "총잡이 고양이",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224390237694",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 15,
+    "name": "어쩌다 도굴",
+    "rawName": "어쩌다 도굴",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224387526019",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 16,
+    "name": "집행검 클래식",
+    "rawName": "집행검 클래식",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224387044735",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 17,
+    "name": "프로스트 킹덤",
+    "rawName": "프로스트 킹덤",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224385868612",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 18,
+    "name": "블라이트워 사후처리국",
+    "rawName": "방치형 RPG 블라이트워 사후처리국",
+    "aliases": [
+      "방치형 RPG 블라이트워 사후처리국"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224384603424",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 19,
+    "name": "이환",
+    "rawName": "이환",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224383422522",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 20,
+    "name": "티니핑 매직매치",
+    "rawName": "티니핑 매직매치",
+    "aliases": [
+      "Teenieping Magic Match"
+    ],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224382718490",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 21,
+    "name": "열혈강호 넥스트",
+    "rawName": "열혈강호 넥스트",
+    "aliases": [
+      "Yulgang Next"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224379877110",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 22,
+    "name": "헌터 키우기",
+    "rawName": "방치형RPG 헌터 키우기",
+    "aliases": [
+      "방치형RPG 헌터 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224379875022",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 23,
+    "name": "신궁 키우기",
+    "rawName": "신궁 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224379081416",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 24,
+    "name": "메이플 키우기",
+    "rawName": "방치형 모바일게임 메이플키우기",
+    "aliases": [
+      "MapleStory Idle",
+      "Maple Idle",
+      "메이플스토리 키우기",
+      "방치형 모바일게임 메이플키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/maple-story-idle-coupon_b2ea5344_e07c6ee1.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224379079920",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/276)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 276
+  },
+  {
+    "id": 25,
+    "name": "히간 이루실",
+    "rawName": "히간 이루실",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224377895592",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 26,
+    "name": "라그나로크M 클래식",
+    "rawName": "라그나로크M 클래식",
+    "aliases": [
+      "Ragnarok M Classic"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224376437914",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 27,
+    "name": "악마단 돌겨억!",
+    "rawName": "악마단 돌겨억!",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224371692223",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 28,
+    "name": "마이 리틀 가디스",
+    "rawName": "마이 리틀 가디스",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224369325906",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 29,
+    "name": "윈드러너 키우기",
+    "rawName": "윈드러너 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224368323653",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 30,
+    "name": "여전사 키우기",
+    "rawName": "방치형 모바일게임 여전사 키우기",
+    "aliases": [
+      "방치형 모바일게임 여전사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224367289629",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 31,
+    "name": "꿈의 여행자: 별빛 여정",
+    "rawName": "신작 MMORPG 꿈의 여행자: 별빛 여정 직업 추천부터",
+    "aliases": [
+      "신작 MMORPG 꿈의 여행자: 별빛 여정 직업 추천부터"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224367288484",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 32,
+    "name": "쿠키런 키우기: 크럼블",
+    "rawName": "쿠키런 키우기: 크럼블",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224364433601",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 33,
+    "name": "림버스 컴퍼니",
+    "rawName": "림버스 컴퍼니",
+    "aliases": [
+      "Limbus Company"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224363396884",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 34,
+    "name": "템빨용사",
+    "rawName": "템빨용사",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224358587153",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 35,
+    "name": "디지몬UP(업)",
+    "rawName": "디지몬UP(업)",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224351331632",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 36,
+    "name": "불사용사 키우기",
+    "rawName": "방치형RPG 불사용사 키우기",
+    "aliases": [
+      "방치형RPG 불사용사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224351330324",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 37,
+    "name": "스톤에이지 키우기",
+    "rawName": "스톤에이지 키우기",
+    "aliases": [
+      "StoneAge Idle"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224345754314",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 38,
+    "name": "테이스티 트레블",
+    "rawName": "신작 머지게임 테이스티 트레블",
+    "aliases": [
+      "신작 머지게임 테이스티 트레블"
+    ],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224345754139",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 39,
+    "name": "삼국지 천하결전",
+    "rawName": "신작 SLG 삼국지 천하결전",
+    "aliases": [
+      "신작 SLG 삼국지 천하결전"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224344548770",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 40,
+    "name": "그레이사가",
+    "rawName": "모바일MMORPG 그레이사가 플레이",
+    "aliases": [
+      "모바일MMORPG 그레이사가 플레이"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224344545841",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 41,
+    "name": "렐리온: NPC들의 생존기",
+    "rawName": "렐리온: NPC들의 생존기",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224343648668",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 42,
+    "name": "몬길 스타다이브",
+    "rawName": "몬길 스타다이브",
+    "aliases": [
+      "Mongil Star Dive"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224343646592",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 43,
+    "name": "오늘도 환생2",
+    "rawName": "신작 방치형 RPG 오늘도 환생2",
+    "aliases": [
+      "신작 방치형 RPG 오늘도 환생2"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337488535",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 44,
+    "name": "냥찍 히어로즈",
+    "rawName": "냥찍 히어로즈",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224339747916",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 45,
+    "name": "스타세일러",
+    "rawName": "신작 턴제 RPG 스타세일러",
+    "aliases": [
+      "신작 턴제 RPG 스타세일러"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337508266",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 46,
+    "name": "DX: 각성자들",
+    "rawName": "모바일 RPG DX: 각성자들",
+    "aliases": [
+      "모바일 RPG DX: 각성자들"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224335845220",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 47,
+    "name": "호드워: 어벤저의 소환",
+    "rawName": "호드워: 어벤저의 소환",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224335843616",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 48,
+    "name": "포켓몬 챔피언스",
+    "rawName": "신작 모바일 게임 포켓몬 챔피언스",
+    "aliases": [
+      "Pokemon Champions",
+      "신작 모바일 게임 포켓몬 챔피언스"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224334765599",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 49,
+    "name": "시티 데몬헌터즈: 각성자들",
+    "rawName": "시티 데몬헌터즈: 각성자들 직접 플레이해 본 후기, 사용 가능한",
+    "aliases": [
+      "시티 데몬헌터즈: 각성자들 직접 플레이해 본 후기, 사용 가능한"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224334763778",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 50,
+    "name": "가십하버",
+    "rawName": "퍼즐게임추천 가십하버",
+    "aliases": [
+      "Gossip Harbor",
+      "퍼즐게임추천 가십하버"
+    ],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224330030752",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 51,
+    "name": "WOS: 화이트 아웃 서바이벌",
+    "rawName": "WOS: 화이트 아웃 서바이벌",
+    "aliases": [
+      "Whiteout Survival",
+      "화이트아웃 서바이벌"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224330028300",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 52,
+    "name": "천년의 구미호 키우기",
+    "rawName": "모바일방치형게임 천년의 구미호 키우기",
+    "aliases": [
+      "모바일방치형게임 천년의 구미호 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224323980359",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 53,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224322891644",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 54,
+    "name": "응발로키우기",
+    "rawName": "방치형게임 응발로키우기",
+    "aliases": [
+      "방치형게임 응발로키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224322889667",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 55,
+    "name": "천마지만 삼국지에서 무쌍중입니다",
+    "rawName": "천마지만 삼국지에서 무쌍중입니다",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224321148097",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 56,
+    "name": "배고파용 키우기",
+    "rawName": "배고파용 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224321145552",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 57,
+    "name": "추노 키우기",
+    "rawName": "추노 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224318149043",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 58,
+    "name": "메이크 드라마: MAD",
+    "rawName": "메이크 드라마: MAD",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224318148422",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 59,
+    "name": "미르의전설: 진",
+    "rawName": "미르의전설: 진",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224316375017",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 60,
+    "name": "토이삼국",
+    "rawName": "토이삼국",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224316371781",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 61,
+    "name": "드래곤빌리지3",
+    "rawName": "드래곤빌리지3",
+    "aliases": [
+      "Dragon Village 3"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224314939454",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 62,
+    "name": "FC(피파) 모바일",
+    "rawName": "FC(피파) 모바일",
+    "aliases": [
+      "FC Mobile",
+      "FIFA Mobile",
+      "피파모바일"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224314936302",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 63,
+    "name": "산너머 도원마을",
+    "rawName": "산너머 도원마을",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224314386629",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 64,
+    "name": "탑히어로즈",
+    "rawName": "탑히어로즈",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224312856315",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 65,
+    "name": "기어몬: 타워디펜스",
+    "rawName": "기어몬: 타워디펜스",
+    "aliases": [],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224309986378",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 66,
+    "name": "바르디안",
+    "rawName": "방치형RPG게임추천 바르디안",
+    "aliases": [
+      "방치형RPG게임추천 바르디안"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224308721407",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 67,
+    "name": "라스트 어사일럼: 페스트",
+    "rawName": "라스트 어사일럼: 페스트",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224308721345",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 68,
+    "name": "갓깨비 키우기",
+    "rawName": "갓깨비 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224306961930",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 69,
+    "name": "남탓 디펜스",
+    "rawName": "남탓 디펜스",
+    "aliases": [],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224305205965",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 70,
+    "name": "나 혼자만 레벨업 어라이즈",
+    "rawName": "나 혼자만 레벨업 어라이즈",
+    "aliases": [
+      "Solo Leveling Arise",
+      "SLA",
+      "나혼렙"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224305203949",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 71,
+    "name": "나 혼자 만렙 키우기",
+    "rawName": "웹툰 나 혼자 만렙 귀환자 원작 모바일게임, 나 혼자 만렙 키우기",
+    "aliases": [
+      "웹툰 나 혼자 만렙 귀환자 원작 모바일게임, 나 혼자 만렙 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224304251863",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 72,
+    "name": "밤탈출 49일",
+    "rawName": "밤탈출 49일",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224302580789",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 73,
+    "name": "넋나간 삼국지",
+    "rawName": "넋나간 삼국지",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224299471300",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 74,
+    "name": "DK모바일 리본",
+    "rawName": "MMORPG게임 추천 DK모바일 리본",
+    "aliases": [
+      "MMORPG게임 추천 DK모바일 리본"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224299408294",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 75,
+    "name": "귀판오분전",
+    "rawName": "귀판오분전",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224298463845",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 76,
+    "name": "더 코지 플로리스트",
+    "rawName": "더 코지 플로리스트",
+    "aliases": [],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224298394097",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 77,
+    "name": "정령킹키우기",
+    "rawName": "방치형모바일RPG 정령킹키우기",
+    "aliases": [
+      "방치형모바일RPG 정령킹키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224296935608",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 78,
+    "name": "인투더던전 리본",
+    "rawName": "인투더던전 리본",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224296885134",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 79,
+    "name": "별별히어로",
+    "rawName": "별별히어로",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224296105413",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 80,
+    "name": "2026 프로야구 Go!",
+    "rawName": "요즘할만한게임추천 2026 프로야구 Go!",
+    "aliases": [
+      "요즘할만한게임추천 2026 프로야구 Go!"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224296102475",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 81,
+    "name": "그놈은 드래곤",
+    "rawName": "모바일RPG게임추천 그놈은 드래곤",
+    "aliases": [
+      "모바일RPG게임추천 그놈은 드래곤"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224294722215",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 82,
+    "name": "창세기전 키우기",
+    "rawName": "창세기전 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224294711606",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 83,
+    "name": "캣히어로",
+    "rawName": "캣히어로",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224292498563",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 84,
+    "name": "세포 특공대",
+    "rawName": "세포 특공대",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224291703089",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 85,
+    "name": "난세표류기",
+    "rawName": "난세표류기",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224290655489",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 86,
+    "name": "문파존망겜",
+    "rawName": "문파존망겜",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224287780447",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 87,
+    "name": "운빨존많겜",
+    "rawName": "운빨존많겜",
+    "aliases": [
+      "Lucky Defense"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224281033209",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 88,
+    "name": "쿠키런 킹덤",
+    "rawName": "쿠키런 킹덤",
+    "aliases": [
+      "Cookie Run Kingdom",
+      "CRK",
+      "쿠킹덤"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224280373693",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 89,
+    "name": "탕탕특공대",
+    "rawName": "탕탕특공대",
+    "aliases": [
+      "Survivor.io"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224279525456",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 90,
+    "name": "메이플 키우기",
+    "rawName": "메이플 키우기",
+    "aliases": [
+      "MapleStory Idle",
+      "Maple Idle",
+      "메이플스토리 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/maple-story-idle-coupon_b2ea5344_e07c6ee1.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224279098987",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/276)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 276
+  },
+  {
+    "id": 91,
+    "name": "쿠키런 오븐스매시",
+    "rawName": "쿠키런 오븐스매시",
+    "aliases": [
+      "Cookie Run OvenSmash"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224278322292",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 92,
+    "name": "랭킹 오브 피쉬킹",
+    "rawName": "방치형 RPG 게임 랭킹 오브 피쉬킹",
+    "aliases": [
+      "방치형 RPG 게임 랭킹 오브 피쉬킹"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223170994224",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 93,
+    "name": "드래곤빌리지 드빌 서바이벌",
+    "rawName": "드래곤빌리지 드빌 서바이벌",
+    "aliases": [],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223052932636",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 94,
+    "name": "서바이버 워리어즈",
+    "rawName": "폰게임추천 서바이버 워리어즈",
+    "aliases": [
+      "폰게임추천 서바이버 워리어즈"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223046262131",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 95,
+    "name": "피파모바일",
+    "rawName": "피파모바일",
+    "aliases": [
+      "FC Mobile",
+      "FIFA Mobile",
+      "FC 모바일"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223037757526",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/62)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 62
+  },
+  {
+    "id": 96,
+    "name": "모여라 무명용사단",
+    "rawName": "방치형 RPG 모여라 무명용사단",
+    "aliases": [
+      "방치형 RPG 모여라 무명용사단"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223026824119",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 97,
+    "name": "데빌 헌터 키우기",
+    "rawName": "신작 모바일게임 데빌 헌터 키우기",
+    "aliases": [
+      "신작 모바일게임 데빌 헌터 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223017245213",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 98,
+    "name": "F급 용사 키우기",
+    "rawName": "방치형 RPG게임 F급 용사 키우기",
+    "aliases": [
+      "방치형 RPG게임 F급 용사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223011000148",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 99,
+    "name": "고양이 스낵바",
+    "rawName": "힐링 방치형게임 고양이 스낵바",
+    "aliases": [
+      "Cat Snack Bar",
+      "힐링 방치형게임 고양이 스낵바"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/223005428196",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 100,
+    "name": "스킬 용사 키우기",
+    "rawName": "방치형 모바일게임 추천 스킬 용사 키우기",
+    "aliases": [
+      "방치형 모바일게임 추천 스킬 용사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222987251558",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 101,
+    "name": "탕탕특공대",
+    "rawName": "구글인기게임순위 탕탕특공대",
+    "aliases": [
+      "Survivor.io",
+      "구글인기게임순위 탕탕특공대"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222976647354",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/89)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 89
+  },
+  {
+    "id": 102,
+    "name": "닌자 머스트 다이",
+    "rawName": "핸드폰게임추천 닌자 머스트 다이",
+    "aliases": [
+      "Ninja Must Die",
+      "핸드폰게임추천 닌자 머스트 다이"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222970666081",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 103,
+    "name": "피파모바일",
+    "rawName": "피파모바일",
+    "aliases": [
+      "FC Mobile",
+      "FIFA Mobile",
+      "FC 모바일"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222966763347",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/62)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 62
+  },
+  {
+    "id": 104,
+    "name": "비공정 기사단",
+    "rawName": "방치형 모바일게임 비공정 기사단",
+    "aliases": [
+      "방치형 모바일게임 비공정 기사단"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222962953741",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 105,
+    "name": "론리 서바이버",
+    "rawName": "론리 서바이버",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222933182646",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 106,
+    "name": "어쩌다 멋진 마왕",
+    "rawName": "핸드폰게임추천 어쩌다 멋진 마왕",
+    "aliases": [
+      "핸드폰게임추천 어쩌다 멋진 마왕"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222926485565",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 107,
+    "name": "갓물주 키우기",
+    "rawName": "방치형 타이쿤 모바일게임 갓물주 키우기",
+    "aliases": [
+      "방치형 타이쿤 모바일게임 갓물주 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222920231153",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 108,
+    "name": "히어로익 익스페디션",
+    "rawName": "판타지 모험 RPG 모바일게임 히어로익 익스페디션",
+    "aliases": [
+      "판타지 모험 RPG 모바일게임 히어로익 익스페디션"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222917092568",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 109,
+    "name": "태초에 신은 고양이였다",
+    "rawName": "방치형 모바일게임 태초에 신은 고양이였다",
+    "aliases": [
+      "방치형 모바일게임 태초에 신은 고양이였다"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222915099528",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 110,
+    "name": "피파온라인4 가을 쇼케이스 로스터 패치 피파모바일 응원단 사전등록에 피파4",
+    "rawName": "피파온라인4 가을 쇼케이스 로스터 패치 피파모바일 응원단 사전등록에 피파4",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222912205328",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 111,
+    "name": "수호자 키우기 온라인",
+    "rawName": "방치형 RPG 모바일게임 수호자 키우기 온라인 공식 카페",
+    "aliases": [
+      "방치형 RPG 모바일게임 수호자 키우기 온라인 공식 카페"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222911423069",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 112,
+    "name": "요괴사냥꾼 키우기",
+    "rawName": "심심할때할만한 방치형 RPG 모바일게임 요괴사냥꾼 키우기",
+    "aliases": [
+      "심심할때할만한 방치형 RPG 모바일게임 요괴사냥꾼 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222903777610",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 113,
+    "name": "낚시왕 키우기",
+    "rawName": "힐링 방치형 모바일게임 낚시왕 키우기",
+    "aliases": [
+      "힐링 방치형 모바일게임 낚시왕 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222898796256",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 114,
+    "name": "깡통기사키우기",
+    "rawName": "폰게임추천 방치형 RPG 깡통기사키우기",
+    "aliases": [
+      "폰게임추천 방치형 RPG 깡통기사키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222894692667",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 115,
+    "name": "조선 좀비전",
+    "rawName": "방치형 RPG 게임추천 조선 좀비전",
+    "aliases": [
+      "방치형 RPG 게임추천 조선 좀비전"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222889339223",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 116,
+    "name": "반의모험",
+    "rawName": "신작 방치형 RPG 모바일게임추천 반의모험",
+    "aliases": [
+      "신작 방치형 RPG 모바일게임추천 반의모험"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222885187411",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 117,
+    "name": "빛과 어둠의 전쟁",
+    "rawName": "방치형 RPG 모바일게임 빛과 어둠의 전쟁",
+    "aliases": [
+      "방치형 RPG 모바일게임 빛과 어둠의 전쟁"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222880089502",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 118,
+    "name": "탕탕특공대",
+    "rawName": "탕탕특공대 공식 카페 신규",
+    "aliases": [
+      "Survivor.io",
+      "탕탕특공대 공식 카페 신규"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222877383702",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/89)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 89
+  },
+  {
+    "id": 119,
+    "name": "광전사 키우기",
+    "rawName": "방치형 액션 RPG 핸드폰게임추천 광전사 키우기",
+    "aliases": [
+      "방치형 액션 RPG 핸드폰게임추천 광전사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222871159396",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 120,
+    "name": "소악마 키우기",
+    "rawName": "할만한 방치형 RPG 모바일게임 소악마 키우기",
+    "aliases": [
+      "할만한 방치형 RPG 모바일게임 소악마 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222870604479",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 121,
+    "name": "강림2:제천대성",
+    "rawName": "신작 무협 MMORPG 모바일게임 강림2:제천대성",
+    "aliases": [
+      "신작 무협 MMORPG 모바일게임 강림2:제천대성"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222867727152",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 122,
+    "name": "레전드 오브 슬라임",
+    "rawName": "방치형 RPG 게임 추천 레전드 오브 슬라임",
+    "aliases": [
+      "Legend of Slime",
+      "방치형 RPG 게임 추천 레전드 오브 슬라임"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222863189779",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 123,
+    "name": "초능력자 키우기",
+    "rawName": "모바일게임순위 높은 방치형 RPG 초능력자 키우기",
+    "aliases": [
+      "모바일게임순위 높은 방치형 RPG 초능력자 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222862135444",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 124,
+    "name": "삼국 명장의길",
+    "rawName": "방치형 RPG 삼국지 모바일게임 삼국 명장의길",
+    "aliases": [
+      "방치형 RPG 삼국지 모바일게임 삼국 명장의길"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222859803297",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 125,
+    "name": "십선비검록",
+    "rawName": "방치형 MMORPG 게임 십선비검록",
+    "aliases": [
+      "방치형 MMORPG 게임 십선비검록"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222859170433",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 126,
+    "name": "농노키우기",
+    "rawName": "방치형 RPG 농노키우기",
+    "aliases": [
+      "방치형 RPG 농노키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222856291836",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 127,
+    "name": "판타지 삼국",
+    "rawName": "폰게임추천 수집형 RPG 판타지 삼국",
+    "aliases": [
+      "폰게임추천 수집형 RPG 판타지 삼국"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222852103548",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 128,
+    "name": "다크 히어로 대쉬",
+    "rawName": "방치형 RPG 게임 다크 히어로 대쉬",
+    "aliases": [
+      "방치형 RPG 게임 다크 히어로 대쉬"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222851459129",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 129,
+    "name": "도깨비 키우기",
+    "rawName": "도깨비 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222850042885",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 130,
+    "name": "올인삼국",
+    "rawName": "핸드폰게임추천 올인삼국",
+    "aliases": [
+      "핸드폰게임추천 올인삼국"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222845045552",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 131,
+    "name": "닌자캣런",
+    "rawName": "닌자캣런",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222843101810",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 132,
+    "name": "기적의 검",
+    "rawName": "모바일 MMORPG 게임 기적의 검",
+    "aliases": [
+      "모바일 MMORPG 게임 기적의 검"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222838952632",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 133,
+    "name": "삼국지 더 다이나믹",
+    "rawName": "전략RPG게임추천 SLG 모바일게임 삼국지 더 다이나믹",
+    "aliases": [
+      "전략RPG게임추천 SLG 모바일게임 삼국지 더 다이나믹"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222837694450",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 134,
+    "name": "백일몽화",
+    "rawName": "새로나온게임추천 수집형 RPG 백일몽화",
+    "aliases": [
+      "새로나온게임추천 수집형 RPG 백일몽화"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222834964506",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 135,
+    "name": "쾌속난무M",
+    "rawName": "심심할때 할만한게임추천 모바일 MMORPG 쾌속난무M",
+    "aliases": [
+      "심심할때 할만한게임추천 모바일 MMORPG 쾌속난무M"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222829351273",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 136,
+    "name": "다그닥 기사단",
+    "rawName": "신작게임추천 방치형 RPG 다그닥 기사단",
+    "aliases": [
+      "신작게임추천 방치형 RPG 다그닥 기사단"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222824016307",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 137,
+    "name": "브라운더스트 앤 퍼즐",
+    "rawName": "할만한게임추천 수집형 RPG 브라운더스트 앤 퍼즐",
+    "aliases": [
+      "Brown Dust & Puzzle",
+      "할만한게임추천 수집형 RPG 브라운더스트 앤 퍼즐"
+    ],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222819552647",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 138,
+    "name": "던전기사 키우기",
+    "rawName": "3D 방치형 RPG 게임 던전기사 키우기",
+    "aliases": [
+      "3D 방치형 RPG 게임 던전기사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222814909870",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 139,
+    "name": "와룡삼국",
+    "rawName": "인기게임순위 수집형 RPG 와룡삼국",
+    "aliases": [
+      "인기게임순위 수집형 RPG 와룡삼국"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222812084931",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 140,
+    "name": "바카스: 하이텐션",
+    "rawName": "할만한 모바일게임추천 방치형 RPG 바카스: 하이텐션",
+    "aliases": [
+      "할만한 모바일게임추천 방치형 RPG 바카스: 하이텐션"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222808478833",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 141,
+    "name": "픽셀 판타지아 : 이세계 소녀 키우기",
+    "rawName": "방치형 모바일게임 추천 픽셀 판타지아 : 이세계 소녀 키우기",
+    "aliases": [
+      "방치형 모바일게임 추천 픽셀 판타지아 : 이세계 소녀 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222803719733",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 142,
+    "name": "제갈량 키우기",
+    "rawName": "폰게임추천 방치형 RPG 제갈량 키우기",
+    "aliases": [
+      "폰게임추천 방치형 RPG 제갈량 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222801644296",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 143,
+    "name": "블레이드 키우기",
+    "rawName": "방치형 RPG 블레이드 키우기",
+    "aliases": [
+      "방치형 RPG 블레이드 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222799084886",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 144,
+    "name": "미스거너 키우기",
+    "rawName": "새로나온 방치형 게임 추천 미스거너 키우기",
+    "aliases": [
+      "새로나온 방치형 게임 추천 미스거너 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222795359136",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 145,
+    "name": "슬레이어 키우기",
+    "rawName": "방치형 핸드폰게임 추천 슬레이어 키우기",
+    "aliases": [
+      "방치형 핸드폰게임 추천 슬레이어 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222792019796",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 146,
+    "name": "상남자 장도끼",
+    "rawName": "방치형RPG게임 추천 상남자 장도끼",
+    "aliases": [
+      "방치형RPG게임 추천 상남자 장도끼"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222788542152",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 147,
+    "name": "소서리스 키우기",
+    "rawName": "심심할때 할만한 게임 추천 방치형 RPG 소서리스 키우기",
+    "aliases": [
+      "심심할때 할만한 게임 추천 방치형 RPG 소서리스 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222782293100",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 148,
+    "name": "쌍칼키우기",
+    "rawName": "휴대폰게임추천 방치형 액션 RPG 쌍칼키우기",
+    "aliases": [
+      "휴대폰게임추천 방치형 액션 RPG 쌍칼키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222777022261",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 149,
+    "name": "스테이트 오브 서바이벌",
+    "rawName": "좀비 전략 시뮬레이션 모바일게임 스테이트 오브 서바이벌",
+    "aliases": [
+      "State of Survival",
+      "SOS",
+      "좀비 전략 시뮬레이션 모바일게임 스테이트 오브 서바이벌"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222761047183",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 150,
+    "name": "테일드 데몬 슬레이어",
+    "rawName": "할만한 모바일게임추천 방치형 RPG 테일드 데몬 슬레이어",
+    "aliases": [
+      "할만한 모바일게임추천 방치형 RPG 테일드 데몬 슬레이어"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222758355131",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 151,
+    "name": "70억 좀비",
+    "rawName": "방치형게임 추천 70억 좀비",
+    "aliases": [
+      "방치형게임 추천 70억 좀비"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222753313662",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 152,
+    "name": "만신",
+    "rawName": "천신 후속작, 실시간 방치형 RPG 만신",
+    "aliases": [
+      "천신 후속작, 실시간 방치형 RPG 만신"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222746849782",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 153,
+    "name": "포세이돈 키우기",
+    "rawName": "포세이돈 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222735250920",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 154,
+    "name": "암행기 어사출두",
+    "rawName": "추리 RPG 모바일게임 암행기 어사출두",
+    "aliases": [
+      "추리 RPG 모바일게임 암행기 어사출두"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222728901549",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 155,
+    "name": "구미호 키우기",
+    "rawName": "방치형 모바일게임 구미호 키우기",
+    "aliases": [
+      "방치형 모바일게임 구미호 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222721407087",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 156,
+    "name": "오늘도 던전",
+    "rawName": "방치형RPG게임 오늘도 던전",
+    "aliases": [
+      "방치형RPG게임 오늘도 던전"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222717363871",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 157,
+    "name": "판도니아의 전설",
+    "rawName": "모바일rpg게임 판도니아의 전설",
+    "aliases": [
+      "모바일rpg게임 판도니아의 전설"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222665380076",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 158,
+    "name": "용키우기",
+    "rawName": "방치형클리커게임 용키우기",
+    "aliases": [
+      "방치형클리커게임 용키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222612297283",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 159,
+    "name": "에픽판타지",
+    "rawName": "전략 RPG 방치형게임 에픽판타지",
+    "aliases": [
+      "전략 RPG 방치형게임 에픽판타지"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222605436226",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 160,
+    "name": "기적의 검",
+    "rawName": "자동화에 진심인 게임, mmorpg 기적의검",
+    "aliases": [
+      "자동화에 진심인 게임, mmorpg 기적의검"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222593852905",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/132)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 132
+  },
+  {
+    "id": 161,
+    "name": "요괴사냥꾼 키우기",
+    "rawName": "방치형모바일게임 요괴사냥꾼 키우기",
+    "aliases": [
+      "방치형모바일게임 요괴사냥꾼 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222588766857",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/112)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 112
+  },
+  {
+    "id": 162,
+    "name": "미스터 히어로",
+    "rawName": "방치형키우기게임 미스터 히어로",
+    "aliases": [
+      "방치형키우기게임 미스터 히어로"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222585874526",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 163,
+    "name": "클래스 마스터 온라인",
+    "rawName": "방치형키우기게임 클래스 마스터 온라인",
+    "aliases": [
+      "방치형키우기게임 클래스 마스터 온라인"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222577056272",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 164,
+    "name": "용사단 키우기",
+    "rawName": "방치형RPG 용사단 키우기",
+    "aliases": [
+      "방치형RPG 용사단 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222576045887",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 165,
+    "name": "마법소녀 키우기",
+    "rawName": "방치형모바일게임추천 마법소녀 키우기",
+    "aliases": [
+      "방치형모바일게임추천 마법소녀 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222574479372",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 166,
+    "name": "인피니티 킹덤",
+    "rawName": "MMOSLG 모바일게임 인피니티 킹덤",
+    "aliases": [
+      "MMOSLG 모바일게임 인피니티 킹덤"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222573925272",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 167,
+    "name": "임모탈키우기",
+    "rawName": "임모탈키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222567186564",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 168,
+    "name": "피파온라인4 2021 윈터 쇼케이스 요약 로스터패치 소식, 피파4",
+    "rawName": "피파온라인4 2021 윈터 쇼케이스 요약 로스터패치 소식, 피파4",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222566520596",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 169,
+    "name": "탱딜힐키우기",
+    "rawName": "와이파이필요없는 방치형 모바일게임 탱딜힐키우기",
+    "aliases": [
+      "와이파이필요없는 방치형 모바일게임 탱딜힐키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222564661634",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 170,
+    "name": "관우키우기",
+    "rawName": "방치형 모바일게임 관우키우기",
+    "aliases": [
+      "방치형 모바일게임 관우키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222558955639",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 171,
+    "name": "달토끼 키우기",
+    "rawName": "방치형RPG게임순위 달토끼 키우기",
+    "aliases": [
+      "방치형RPG게임순위 달토끼 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222554692945",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 172,
+    "name": "스프라이트 판타지아",
+    "rawName": "모험 MMORPG 게임 추천 스프라이트 판타지아",
+    "aliases": [
+      "모험 MMORPG 게임 추천 스프라이트 판타지아"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222553858509",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 173,
+    "name": "김계란 키우기",
+    "rawName": "화제의 게임! 방치형RPG 김계란 키우기",
+    "aliases": [
+      "화제의 게임! 방치형RPG 김계란 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222550681239",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 174,
+    "name": "창술사 키우기",
+    "rawName": "할만한휴대폰게임추천 방치형 RPG 창술사 키우기",
+    "aliases": [
+      "할만한휴대폰게임추천 방치형 RPG 창술사 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222547183153",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 175,
+    "name": "썩쏘키우기",
+    "rawName": "심심할때할만한게임 방치형 RPG 썩쏘키우기",
+    "aliases": [
+      "심심할때할만한게임 방치형 RPG 썩쏘키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222496109612",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 176,
+    "name": "몬스터 키우기",
+    "rawName": "방치형 RPG 게임 몬스터 키우기",
+    "aliases": [
+      "방치형 RPG 게임 몬스터 키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222487352197",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 177,
+    "name": "쿠키런 킹덤",
+    "rawName": "쿠키런 킹덤",
+    "aliases": [
+      "Cookie Run Kingdom",
+      "CRK",
+      "쿠킹덤"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222333343047",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/88)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 88
+  },
+  {
+    "id": 178,
+    "name": "쿠키런 킹덤",
+    "rawName": "쿠키런 킹덤",
+    "aliases": [
+      "Cookie Run Kingdom",
+      "CRK",
+      "쿠킹덤"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222324259509",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/88)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 88
+  },
+  {
+    "id": 179,
+    "name": "갑부 장사의 시대",
+    "rawName": "갑부 장사의 시대",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222219984280",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 180,
+    "name": "검은강호2: 이터널소울",
+    "rawName": "무협 MMORPG 검은강호2: 이터널소울",
+    "aliases": [
+      "무협 MMORPG 검은강호2: 이터널소울"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222216695671",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 181,
+    "name": "대천사키우기",
+    "rawName": "방치형RPG 대천사키우기",
+    "aliases": [
+      "방치형RPG 대천사키우기"
+    ],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222215666939",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 182,
+    "name": "아일랜드M",
+    "rawName": "신작 턴제수집형RPG 아일랜드M",
+    "aliases": [
+      "신작 턴제수집형RPG 아일랜드M"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222206692561",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 183,
+    "name": "피파온라인4 유튜브 깜짝 이벤트? 피파4",
+    "rawName": "피파온라인4 유튜브 깜짝 이벤트? 피파4",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222178492026",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 184,
+    "name": "찐삼국",
+    "rawName": "방치형전략rpg 찐삼국",
+    "aliases": [
+      "방치형전략rpg 찐삼국"
+    ],
+    "category": "전략",
+    "image": "/assets/aistudio/card-strategy_9155dc80_d0110024.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222173439628",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 185,
+    "name": "넥슨 위 딜리버 조이 피파온라인4 피파모바일",
+    "rawName": "넥슨 위 딜리버 조이 피파온라인4 피파모바일",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222151427641",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 186,
+    "name": "나를따르라2",
+    "rawName": "삼국지게임추천 나를따르라2",
+    "aliases": [
+      "삼국지게임추천 나를따르라2"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222141056159",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 187,
+    "name": "사신키우기",
+    "rawName": "사신키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222138521676",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 188,
+    "name": "킹오브스타",
+    "rawName": "모바일 수집형RPG 킹오브스타",
+    "aliases": [
+      "모바일 수집형RPG 킹오브스타"
+    ],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222134800798",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 189,
+    "name": "바람의나라: 연",
+    "rawName": "바람의나라 연 추석 이벤트 송편 만들면 추첨을 통해",
+    "aliases": [
+      "바람의나라 연 추석 이벤트 송편 만들면 추첨을 통해"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222102431657",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 190,
+    "name": "기적의 검",
+    "rawName": "신작RPG게임 기적의검",
+    "aliases": [
+      "신작RPG게임 기적의검"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222085988308",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/132)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 132
+  },
+  {
+    "id": 191,
+    "name": "스테리테일",
+    "rawName": "폰게임추천 스테리테일",
+    "aliases": [
+      "폰게임추천 스테리테일"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222073529486",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 192,
+    "name": "피파온라인4 신규 클래스 리버풀 엠버서더 LA 시즌 출시 PC방 수수료",
+    "rawName": "피파온라인4 신규 클래스 리버풀 엠버서더 LA 시즌 출시 PC방 수수료",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/222072561539",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 193,
+    "name": "메이플스토리 캐시샵 업데이트",
+    "rawName": "메이플스토리 캐시샵 업데이트",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/221822500619",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 194,
+    "name": "소울나이트",
+    "rawName": "소울나이트",
+    "aliases": [
+      "Soul Knight"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/221618935502",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 195,
+    "name": "사일런트힐 타운폴",
+    "rawName": "사일런트힐 타운폴",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224404168722",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 196,
+    "name": "귀혼 키우기",
+    "rawName": "귀혼 키우기",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224402266864",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 197,
+    "name": "팰월드 온라인",
+    "rawName": "팰월드 온라인",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224400317347",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 198,
+    "name": "스팀 생존 게임 할인 소식! 2026 PvE 생존 제작 게임 축제 꿀팁 총정",
+    "rawName": "스팀 생존 게임 할인 소식! 2026 PvE 생존 제작 게임 축제 꿀팁 총정",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224397977125",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 199,
+    "name": "랜덤다이스2 덱 추천 BEST 3 무과금을 위한",
+    "rawName": "랜덤다이스2 덱 추천 BEST 3 무과금을 위한",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224396538636",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/8)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 8
+  },
+  {
+    "id": 200,
+    "name": "제우스 오만의 신 직업 추천 무과금, 쌀먹은 어떤 직업이 좋을까? 신작 MM",
+    "rawName": "제우스 오만의 신 직업 추천 무과금, 쌀먹은 어떤 직업이 좋을까? 신작 MM",
+    "aliases": [],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224387073506",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 201,
+    "name": "모탈쉘(셸)2 스팀 PS5 출시, 사양 및",
+    "rawName": "모탈쉘(셸)2 스팀 PS5 출시, 사양 및",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224387043209",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 202,
+    "name": "팰월드 어둠의 파편 얻는법, 위치 및 사용처 드랍하는 팰",
+    "rawName": "팰월드 어둠의 파편 얻는법, 위치 및 사용처 드랍하는 팰",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224384609632",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 203,
+    "name": "팰월드",
+    "rawName": "팰월드",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224383430762",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 204,
+    "name": "팰월드 독샘 얻는법? 상인과 드랍하는 팰, 사용처",
+    "rawName": "팰월드 독샘 얻는법? 상인과 드랍하는 팰, 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224382715967",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 205,
+    "name": "솔 인챈트 레인저 50렙 영웅 무기 추천 나가의 장궁 vs 소울 보우, 무과",
+    "rawName": "솔 인챈트 레인저 50렙 영웅 무기 추천 나가의 장궁 vs 소울 보우, 무과",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224381198537",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 206,
+    "name": "팰월드 오래된 양피지 얻는법, 사용처",
+    "rawName": "팰월드 오래된 양피지 얻는법, 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224381195645",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 207,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224377893006",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 208,
+    "name": "팰월드 양털 얻는 방법 위치 및 좌표 총정리 방한, 내열 속옷 제작을 위한",
+    "rawName": "팰월드 양털 얻는 방법 위치 및 좌표 총정리 방한, 내열 속옷 제작을 위한 ",
+    "aliases": [
+      "팰월드 양털 얻는 방법 위치 및 좌표 총정리 방한, 내열 속옷 제작을 위한 "
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224376441672",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 209,
+    "name": "팰월드 순수한 석영 얻는 방법, 주요 사용처",
+    "rawName": "팰월드 순수한 석영 얻는 방법, 주요 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224375682379",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 210,
+    "name": "팰월드 유황 얻는 방법, 주요 사용처",
+    "rawName": "팰월드 유황 얻는 방법, 주요 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224375680231",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 211,
+    "name": "팰월드 석탄 얻는 방법, 주요 사용처",
+    "rawName": "팰월드 석탄 얻는 방법, 주요 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224374576842",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 212,
+    "name": "솔 인챈트 타락의 파편 얻는 방법, 신을 버린 자 리젠 위치",
+    "rawName": "솔 인챈트 타락의 파편 얻는 방법, 신을 버린 자 리젠 위치",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224374575264",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 213,
+    "name": "솔 인챈트 제네시스: 신의 전장 사전등록 보상 총정리, 신규 클래스 힐러 출",
+    "rawName": "솔 인챈트 제네시스: 신의 전장 사전등록 보상 총정리, 신규 클래스 힐러 출",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224373086260",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 214,
+    "name": "팰월드 밤별 모래 얻는 방법",
+    "rawName": "팰월드 밤별 모래 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224372490047",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 215,
+    "name": "스팀 게임 깜짝 할인! 문라이터, 브레스엣지 무료 배포 소식",
+    "rawName": "스팀 게임 깜짝 할인! 문라이터, 브레스엣지 무료 배포 소식",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224372489139",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 216,
+    "name": "2026 닌텐도 스위치 여름 세일 역대급 할인 타이틀 라인업 소개, 게임 추",
+    "rawName": "2026 닌텐도 스위치 여름 세일 역대급 할인 타이틀 라인업 소개, 게임 추",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224372463250",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 217,
+    "name": "팰월드 헥소 석영 채굴 위치 좌표, 사용처",
+    "rawName": "팰월드 헥소 석영 채굴 위치 좌표, 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224371693237",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 218,
+    "name": "팰월드 레젠디얼 위치 및 잡는 법! 석판 얻는 방법과 안장, 종결 패시브까지",
+    "rawName": "팰월드 레젠디얼 위치 및 잡는 법! 석판 얻는 방법과 안장, 종결 패시브까지",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224370534256",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 219,
+    "name": "팰월드 빙천마 위치 좌표 및 종결 패시브, 안장 얻는 방법",
+    "rawName": "팰월드 빙천마 위치 좌표 및 종결 패시브, 안장 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224370530689",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 220,
+    "name": "사과게임 플러스",
+    "rawName": "더 재미있어진 사과게임 플러스 친구랑 멀티 플레이 하는 방법, 고득점 꿀팁",
+    "aliases": [
+      "더 재미있어진 사과게임 플러스 친구랑 멀티 플레이 하는 방법, 고득점 꿀팁"
+    ],
+    "category": "퍼즐",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224369323169",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 221,
+    "name": "팰월드 신비한 목재 얻는 방법",
+    "rawName": "팰월드 신비한 목재 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224364399479",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 222,
+    "name": "팰월드 팰키사이트 얻는 방법, 채굴 시 사라지는 현상 해결법은?",
+    "rawName": "팰월드 팰키사이트 얻는 방법, 채굴 시 사라지는 현상 해결법은?",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224364397485",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 223,
+    "name": "팰월드 세계수의 성수 얻는법, 파밍 위치와 사용처까지 총정리",
+    "rawName": "팰월드 세계수의 성수 얻는법, 파밍 위치와 사용처까지 총정리",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224363397802",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 224,
+    "name": "팰월드 세계수로 가는 방법",
+    "rawName": "팰월드 세계수로 가는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224362256497",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 225,
+    "name": "메트로 타이핑 사이트, 화제의 지하철역 타자게임 후기, 고득점 꿀팁",
+    "rawName": "메트로 타이핑 사이트, 화제의 지하철역 타자게임 후기, 고득점 꿀팁",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224362253229",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 226,
+    "name": "팰월드 채굴 종결 팰 셸가드라 위치 및 좌표, 초중반 채굴 팰 추천까지",
+    "rawName": "팰월드 채굴 종결 팰 셸가드라 위치 및 좌표, 초중반 채굴 팰 추천까지",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224361133843",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 227,
+    "name": "팰월드 불 피우기 종결 팰 업화무 좌표 및 초중반 가성비 일꾼 팰 추천",
+    "rawName": "팰월드 불 피우기 종결 팰 업화무 좌표 및 초중반 가성비 일꾼 팰 추천",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224361131666",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 228,
+    "name": "팰월드 동굴버섯 얻는 방법! 직접 파밍과 상인 구매 위치 및 좌표",
+    "rawName": "팰월드 동굴버섯 얻는 방법! 직접 파밍과 상인 구매 위치 및 좌표",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224359925507",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 229,
+    "name": "팰월드 임플란트 구하는법 총정리! 상인 위치 및 구입처 꿀팁",
+    "rawName": "팰월드 임플란트 구하는법 총정리! 상인 위치 및 구입처 꿀팁",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224359915227",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 230,
+    "name": "몬스터헌터 아웃랜더스",
+    "rawName": "몬스터헌터 아웃랜더스",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224358584998",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 231,
+    "name": "팰월드 도그코인 얻는 방법",
+    "rawName": "팰월드 도그코인 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224357913217",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 232,
+    "name": "팰월드 고대 용암 덩어리 얻는 방법, 정확한 좌표와 사용처",
+    "rawName": "팰월드 고대 용암 덩어리 얻는 방법, 정확한 좌표와 사용처",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224357911737",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 233,
+    "name": "팰월드 크로마이트 얻는 방법, 좌표 및 후반 종결 사용처 완벽",
+    "rawName": "팰월드 크로마이트 얻는 방법, 좌표 및 후반 종결 사용처 완벽",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224356090351",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 234,
+    "name": "팰월드 운석 파편 얻는 방법",
+    "rawName": "팰월드 운석 파편 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224356089757",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 235,
+    "name": "팰월드",
+    "rawName": "팰월드",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224354851112",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 236,
+    "name": "팰월드 단단한 목재 얻는 방법, 위치 및 효율적인 사용처 완벽",
+    "rawName": "팰월드 단단한 목재 얻는 방법, 위치 및 효율적인 사용처 완벽",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224354849644",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 237,
+    "name": "팰월드 코랄리움 광석&주괴 얻는법 위치 사용처 총정리",
+    "rawName": "팰월드 코랄리움 광석&주괴 얻는법 위치 사용처 총정리",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224353762235",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 238,
+    "name": "팰월드 고대 문명의 코어 얻는법 위치 사용처 총정리",
+    "rawName": "팰월드 고대 문명의 코어 얻는법 위치 사용처 총정리",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224353761163",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 239,
+    "name": "팰월드 고대 짐승뼈 얻는 방법 & 사용처(용도) 총정리",
+    "rawName": "팰월드 고대 짐승뼈 얻는 방법 & 사용처(용도) 총정리",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224352607696",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 240,
+    "name": "팰월드 초반 거점 추천 TOP 5 | 좌표 총정리",
+    "rawName": "팰월드 초반 거점 추천 TOP 5 | 좌표 총정리",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224352603306",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 241,
+    "name": "GTA5",
+    "rawName": "GTA5",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224350552236",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 242,
+    "name": "오버워치2 넥슨 계정 연동 방법 및 보상 총정리: 넥슨 vs 스팀 장단점 비",
+    "rawName": "오버워치2 넥슨 계정 연동 방법 및 보상 총정리: 넥슨 vs 스팀 장단점 비",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224348623445",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 243,
+    "name": "팰월드 지도 최신 사이트 추천 OP.GG로 간편하게",
+    "rawName": "팰월드 지도 최신 사이트 추천 OP.GG로 간편하게",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224347791509",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 244,
+    "name": "쿠키런 키우기(크럼블)",
+    "rawName": "쿠키런 키우기(크럼블)",
+    "aliases": [],
+    "category": "방치형",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224341768531",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/32)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 32
+  },
+  {
+    "id": 245,
+    "name": "솔 인챈트 초반 육성",
+    "rawName": "솔 인챈트 초반 육성",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337538014",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 246,
+    "name": "비스트 오브 리인카네이션(윤회의 짐승) 예약 판매 시작! 어떤 게임일까?",
+    "rawName": "비스트 오브 리인카네이션(윤회의 짐승) 예약 판매 시작! 어떤 게임일까?",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337509322",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 247,
+    "name": "솔 인챈트 스쿼드 모드",
+    "rawName": "솔 인챈트 스쿼드 모드",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337522369",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 248,
+    "name": "데이브 더 다이버 모바일",
+    "rawName": "데이브 더 다이버 모바일",
+    "aliases": [
+      "Dave the Diver Mobile"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224337427959",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 249,
+    "name": "2026 스팀 여름 할인 협동게임 TOP7 친구와 꼭 해봐야 할 게임 추천",
+    "rawName": "2026 스팀 여름 할인 협동게임 TOP7 친구와 꼭 해봐야 할 게임 추천",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224336491865",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 250,
+    "name": "메이플플래닛 아크메이지(불독) 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 아크메이지(불독) 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224333592357",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 251,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224333590336",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 252,
+    "name": "포켓몬 챔피언스 스타팅 포켓몬 추천, 누구를 데려가는게 좋을까?",
+    "rawName": "포켓몬 챔피언스 스타팅 포켓몬 추천, 누구를 데려가는게 좋을까?",
+    "aliases": [],
+    "category": "수집형",
+    "image": "/assets/aistudio/card-collection_b8cbc57b_ea053600.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224332420030",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/48)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 48
+  },
+  {
+    "id": 253,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224332417783",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 254,
+    "name": "콜 오브 듀티 모던워페어 4(사) 예약 구매 시작!",
+    "rawName": "콜 오브 듀티 모던워페어 4(사) 예약 구매 시작!",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224331155746",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 255,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224331152852",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 256,
+    "name": "솔 인챈트 나인 코어 제작 방법과 사용처, 파밍 사냥터 추천까지",
+    "rawName": "솔 인챈트 나인 코어 제작 방법과 사용처, 파밍 사냥터 추천까지",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224328973069",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 257,
+    "name": "솔 인챈트 무과금 유저를 위한 30레벨 이하 철 파밍용 사냥터 추천",
+    "rawName": "솔 인챈트 무과금 유저를 위한 30레벨 이하 철 파밍용 사냥터 추천",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224325199196",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 258,
+    "name": "메이플플래닛 소울마스터 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 소울마스터 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224325136683",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 259,
+    "name": "솔 인챈트",
+    "rawName": "솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트"
+    ],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224325136503",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 260,
+    "name": "솔 인챈트 나인 버는 방법 30레벨 이하 저렙 나인 수급 사냥터 추천",
+    "rawName": "솔 인챈트 나인 버는 방법 30레벨 이하 저렙 나인 수급 사냥터 추천",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224324007637",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 261,
+    "name": "메이플플래닛 아크메이지(썬콜) 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 아크메이지(썬콜) 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224322086779",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 262,
+    "name": "메이플플래닛 비숍 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 비숍 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224322084089",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 263,
+    "name": "메이플플래닛 플레임위자드 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 플레임위자드 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224318948313",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 264,
+    "name": "메이플플래닛 신궁 스킬트리 및 사냥터",
+    "rawName": "메이플플래닛 신궁 스킬트리 및 사냥터",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224318831325",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 265,
+    "name": "넥슨게임 크레이지 아케이드 서버 종료 소식, 크아 섭종 날짜 환불 정보 빠르",
+    "rawName": "넥슨게임 크레이지 아케이드 서버 종료 소식, 크아 섭종 날짜 환불 정보 빠르",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224314433172",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 266,
+    "name": "배틀그라운드",
+    "rawName": "배틀그라운드",
+    "aliases": [
+      "PUBG Mobile",
+      "배그 모바일",
+      "PUBG"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224311359665",
+    "auditGroup": "B",
+    "auditReason": "모바일게임 쿠폰 안내 페이지(활성 쿠폰 코드 직접 검증 대기)",
+    "indexable": true
+  },
+  {
+    "id": 267,
+    "name": "솔 인챈트",
+    "rawName": "넷마블 신작 MMORPG 솔 인챈트",
+    "aliases": [
+      "SOL Enchant",
+      "솔인챈트",
+      "넷마블 신작 MMORPG 솔 인챈트"
+    ],
+    "category": "MMORPG",
+    "image": "/assets/aistudio/card-mmorpg_51a24582_ff2ee593.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224307542603",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/12)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 12
+  },
+  {
+    "id": 268,
+    "name": "GTA6 플랫폼 별 예상",
+    "rawName": "GTA6 플랫폼 별 예상",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224302563733",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 269,
+    "name": "몬길 스타다이브 에픽게임즈 스토어에서 다이버즈 메가 패키지 무료로 얻는 방법",
+    "rawName": "몬길 스타다이브 에픽게임즈 스토어에서 다이버즈 메가 패키지 무료로 얻는 방법",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224291883701",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/42)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 42
+  },
+  {
+    "id": 270,
+    "name": "서브노티카2 얼리엑세스 공개, 가격 사양 멀티 정식",
+    "rawName": "서브노티카2 얼리엑세스 공개, 가격 사양 멀티 정식",
+    "aliases": [],
+    "category": "RPG",
+    "image": "/assets/aistudio/card-rpg_e1783d1b_d335d0cc.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224288540121",
+    "auditGroup": "D",
+    "auditReason": "PC·콘솔 정보/할인/공략 성격의 기존 유입 페이지(모바일 쿠폰 미대상)",
+    "indexable": false
+  },
+  {
+    "id": 271,
+    "name": "배틀그라운드 그래픽 설정 추천 배그 최적화 국민옵션 알아봐요",
+    "rawName": "배틀그라운드 그래픽 설정 추천 배그 최적화 국민옵션 알아봐요",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224285941874",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/266)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 266
+  },
+  {
+    "id": 272,
+    "name": "배틀그라운드 소식 배그 할리데이비슨 콜라보 오토바이 스킨 출시, 상자깡까지",
+    "rawName": "배틀그라운드 소식 배그 할리데이비슨 콜라보 오토바이 스킨 출시, 상자깡까지",
+    "aliases": [],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224284780129",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/266)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 266
+  },
+  {
+    "id": 273,
+    "name": "배틀그라운드",
+    "rawName": "배틀그라운드",
+    "aliases": [
+      "PUBG Mobile",
+      "배그 모바일",
+      "PUBG"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224284771671",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/266)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 266
+  },
+  {
+    "id": 274,
+    "name": "배틀그라운드 PAYDAY 콜라보, 배그 페이데이 모드",
+    "rawName": "배틀그라운드 PAYDAY 콜라보, 배그 페이데이 모드 플레이",
+    "aliases": [
+      "배틀그라운드 PAYDAY 콜라보, 배그 페이데이 모드 플레이"
+    ],
+    "category": "기타",
+    "image": "/assets/aistudio/card-action_08a8662b_9452fd1c.png",
+    "lastCheckedAt": "2026-09-08",
+    "coupons": [],
+    "sourceUrl": "https://blog.naver.com/jeonghoblog/224284672716",
+    "auditGroup": "D",
+    "auditReason": "중복 게임 항목 — 대표 페이지(/game/266)로 통합 권장",
+    "indexable": false,
+    "canonicalTargetId": 266
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "모쿠몽 | 모바일게임 쿠폰",
+  "short_name": "모쿠몽",
+  "description": "모바일게임 쿠폰 검색 및 원터치 복사 허브",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080D18",
+  "theme_color": "#080D18",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/assets/aistudio/mokumong-cat-mage-logo_52587fb5_28f50208.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg: #080D18;
+    --surface: #121A29;
+    --card: #192236;
+    --primary: #7064FF;
+    --accent: #26C6F9;
+    --text: #F5F7FF;
+    --muted: #A5B0C3;
+    --success: #30D69A;
+    --expired: #778294;
+  }
+
+  html {
+    background-color: #080D18;
+    color: #F5F7FF;
+    font-family: 'Plus Jakarta Sans', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: #080D18;
+    color: #F5F7FF;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  code,
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle horizontal scrollbar hiding for mobile category rail */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

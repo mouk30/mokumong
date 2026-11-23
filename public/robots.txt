@@ -1,0 +1,13 @@
+User-agent: Yeti
+Allow: /
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://coupongame.best/sitemap.xml
