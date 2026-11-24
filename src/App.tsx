@@ -3,11 +3,13 @@ import { Footer } from './components/Footer';
 import { Header } from './components/Header';
 import { GAME_BY_ID } from './data/games';
 import { INSIGHT_BY_SLUG, JOB_BY_SLUG } from './data/insights';
+import { AboutPage } from './pages/AboutPage';
 import { GameDetailPage } from './pages/GameDetailPage';
 import { HomePage } from './pages/HomePage';
 import { InsightDetailPage } from './pages/InsightDetailPage';
 import { InsightsPage } from './pages/InsightsPage';
 import { JobDetailPage } from './pages/JobDetailPage';
+import { LegalPage } from './pages/LegalPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 import { RouterProvider, useRouter } from './router';
 import { getMetaForPath } from './utils/seo';
@@ -83,6 +85,12 @@ function AppShell() {
     page = <HomePage />;
   } else if (pathname === '/insights') {
     page = <InsightsPage />;
+  } else if (pathname === '/about') {
+    page = <AboutPage />;
+  } else if (pathname === '/privacy') {
+    page = <LegalPage mode="privacy" />;
+  } else if (pathname === '/terms') {
+    page = <LegalPage mode="terms" />;
   } else {
     const gameMatch = pathname.match(/^\/game\/(\d+)$/);
     if (gameMatch) {

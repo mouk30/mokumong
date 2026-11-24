@@ -8,13 +8,13 @@ export function Footer() {
           <div className="flex items-center gap-2">
             <img
               src="/favicon.svg"
-              alt="모쿠몽"
+              alt="모쿠몽 로고"
               width={22}
               height={22}
               className="h-5.5 w-5.5 rounded-md"
             />
             <span className="font-bold text-[#F5F7FF]">모쿠몽</span>
-            <span className="text-xs text-[#778294]">coupongame.best</span>
+            <span className="text-xs text-[#778294]">seoulkr.xyz</span>
           </div>
           <p className="text-xs leading-relaxed text-[#A5B0C3]">
             모쿠몽은 모바일게임 쿠폰 코드를 빠르게 검색하고 원터치로 복사할 수
@@ -23,20 +23,26 @@ export function Footer() {
           </p>
         </div>
 
-        <div className="flex flex-wrap gap-x-6 gap-y-2 text-xs font-medium">
+        <nav aria-label="하단 링크" className="flex flex-wrap gap-x-5 gap-y-2 text-xs font-medium">
           <AppLink href="/" className="hover:text-[#F5F7FF]">
             홈 · 쿠폰 검색
           </AppLink>
           <AppLink href="/insights" className="hover:text-[#F5F7FF]">
             장르별 쿠폰 가이드
           </AppLink>
-          <a
-            href="/sitemap.xml"
-            className="hover:text-[#F5F7FF]"
-          >
+          <AppLink href="/about" className="hover:text-[#F5F7FF]">
+            서비스 소개
+          </AppLink>
+          <AppLink href="/privacy" className="hover:text-[#F5F7FF]">
+            개인정보처리방침
+          </AppLink>
+          <AppLink href="/terms" className="hover:text-[#F5F7FF]">
+            이용약관
+          </AppLink>
+          <a href="/sitemap.xml" className="hover:text-[#F5F7FF]">
             사이트맵
           </a>
-        </div>
+        </nav>
       </div>
     </footer>
   );

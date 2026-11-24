@@ -4,8 +4,10 @@ import { GAMES } from '../src/data/games';
 import { INSIGHTS, JOB_GUIDES } from '../src/data/insights';
 import { renderRoute } from '../src/entry-server';
 import { SITE_URL, type PageMeta } from '../src/utils/seo';
+import { buildRobotsTxt, buildSitemapEntries, buildSitemapXml } from '../src/utils/sitemap';
 
 const root = process.cwd();
+const publicDir = path.join(root, 'public');
 const distDir = path.join(root, 'dist');
 const templatePath = path.join(distDir, 'index.html');
 
@@ -91,8 +93,11 @@ function writeRouteHtml(routePath: string, outputRelPath: string) {
   fs.writeFileSync(outPath, fullHtml, 'utf8');
 }
 
-// 1. Prerender Home & 404
+// 1. Prerender Home, Trust Pages & 404
 writeRouteHtml('/', 'index.html');
+writeRouteHtml('/about', 'about/index.html');
+writeRouteHtml('/privacy', 'privacy/index.html');
+writeRouteHtml('/terms', 'terms/index.html');
 writeRouteHtml('/404', '404.html');
 
 // 2. Prerender all 277 Game URLs (preserving legacy /game/:id routes)
@@ -109,66 +114,18 @@ for (const job of JOB_GUIDES) {
   writeRouteHtml(`/job/${job.slug}`, `job/${job.slug}/index.html`);
 }
 
-// 4. Generate Audited Sitemap (ONLY indexable canonical URLs, accurate lastmod)
-const latestGameDate = GAMES.reduce(
-  (max, g) => (g.lastCheckedAt > max ? g.lastCheckedAt : max),
-  '2026-09-08'
-);
+// 4. Generate synchronized Sitemap XML (with Google Image Sitemap) & robots.txt to BOTH public/ and dist/
+const sitemapXml = buildSitemapXml(SITE_URL, GAMES, INSIGHTS);
+const robotsTxt = buildRobotsTxt(SITE_URL);
+const sitemapEntries = buildSitemapEntries(SITE_URL, GAMES, INSIGHTS);
+const imageCount = sitemapEntries.reduce((sum, e) => sum + (e.images?.length || 0), 0);
 
-interface SitemapEntry {
-  loc: string;
-  lastmod: string;
-  changefreq: string;
-  priority: string;
-}
-
-const sitemapEntries: SitemapEntry[] = [
-  {
-    loc: `${SITE_URL}/`,
-    lastmod: latestGameDate,
-    changefreq: 'daily',
-    priority: '1.0',
-  },
-  {
-    loc: `${SITE_URL}/insights`,
-    lastmod: '2026-09-08',
-    changefreq: 'weekly',
-    priority: '0.8',
-  },
-  ...INSIGHTS.map((article) => ({
-    loc: `${SITE_URL}/insights/${article.slug}`,
-    lastmod: article.lastModified,
-    changefreq: 'monthly',
-    priority: '0.7',
-  })),
-  ...GAMES.filter((g) => g.indexable)
-    .slice()
-    .sort((a, b) => a.id - b.id)
-    .map((game) => ({
-      loc: `${SITE_URL}/game/${game.id}`,
-      lastmod: game.lastCheckedAt,
-      changefreq: game.coupons.some((c) => c.status === 'VERIFIED') ? 'daily' : 'weekly',
-      priority: game.coupons.some((c) => c.status === 'VERIFIED') ? '0.9' : '0.75',
-    })),
-];
-
-const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${sitemapEntries
-  .map(
-    (entry) => `  <url>
-    <loc>${entry.loc}</loc>
-    <lastmod>${entry.lastmod}</lastmod>
-    <changefreq>${entry.changefreq}</changefreq>
-    <priority>${entry.priority}</priority>
-  </url>`
-  )
-  .join('\n')}
-</urlset>
-`;
-
+fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemapXml, 'utf8');
+fs.writeFileSync(path.join(publicDir, 'robots.txt'), robotsTxt, 'utf8');
 fs.writeFileSync(path.join(distDir, 'sitemap.xml'), sitemapXml, 'utf8');
+fs.writeFileSync(path.join(distDir, 'robots.txt'), robotsTxt, 'utf8');
 
+const totalHtml = 5 + GAMES.length + 1 + INSIGHTS.length + JOB_GUIDES.length;
 console.log(
-  `SSG Prerender complete: ${2 + GAMES.length + 1 + INSIGHTS.length + JOB_GUIDES.length} HTML files, ${sitemapEntries.length} indexable URLs in sitemap.xml.`
+  `SSG Prerender complete: ${totalHtml} HTML files, ${sitemapEntries.length} canonical URLs & ${imageCount} images in sitemap.xml.`
 );
